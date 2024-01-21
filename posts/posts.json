@@ -1,0 +1,6 @@
+{
+    "layout": "layout.html",
+    "tags": "post",
+    "permalink": "/{{ page.date | date: '%Y/%m/%d' }}/{{ title | slugify }}/index.html",
+    "date": "Last Modified"
+}

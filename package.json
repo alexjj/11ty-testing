@@ -1,0 +1,16 @@
+{
+  "name": "11ty-demo",
+  "version": "1.0.0",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve --port=8181"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {},
+  "description": ""
+}
