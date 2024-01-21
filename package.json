@@ -9,8 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@11ty/eleventy-img": "^3.1.8",
     "dayjs": "^1.11.10"
   },
-  "devDependencies": {},
-  "description": ""
+  "description": "",
+  "devDependencies": {}
 }
